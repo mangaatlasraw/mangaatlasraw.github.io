@@ -14,12 +14,7 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "One Piece is a Japanese manga series by Eiichiro Oda.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Shonen"
-      ],
+      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
       "cover": "manga-covers/one-piece/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -38,11 +33,7 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Shonen"
-      ],
+      "genres": ["Action", "Comedy", "Shonen"],
       "cover": "manga-covers/sakamoto-days/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -82,7 +73,7 @@
       "id": "sakamoto-days-275",
       "mangaId": "sakamoto-days",
       "number": 275,
-      "title": "SAKAMOTO DAYS – サカモトデイズ raw 第275話",
+      "title": "サカモトデイズ raw ( SAKAMOTO DAYS raw ) 第275話",
       "slug": "sakamoto-days-raw-275",
       "country": "JP",
       "pages": [
