@@ -14,7 +14,12 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "One Piece is a Japanese manga series by Eiichiro Oda.",
-      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shonen"
+      ],
       "cover": ""
     },
     {
@@ -30,7 +35,11 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
-      "genres": ["Action", "Comedy", "Shonen"],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shonen"
+      ],
       "cover": ""
     }
   ],
@@ -42,8 +51,19 @@
       "title": "ワンピース Raw ( One Piece raw ) 第1193話",
       "slug": "one-piece-raw-1193",
       "country": "JP",
-      "pages": [],
-      "createdAt": "2026-09-12T12:56:00+05:00"
+      "pages": [
+        "chapter-images/one-piece/chapter-1193/page-001.webp",
+        "chapter-images/one-piece/chapter-1193/page-002.webp",
+        "chapter-images/one-piece/chapter-1193/page-003.webp",
+        "chapter-images/one-piece/chapter-1193/page-004.webp",
+        "chapter-images/one-piece/chapter-1193/page-005.webp",
+        "chapter-images/one-piece/chapter-1193/page-006.webp",
+        "chapter-images/one-piece/chapter-1193/page-007.webp",
+        "chapter-images/one-piece/chapter-1193/page-008.webp",
+        "chapter-images/one-piece/chapter-1193/page-009.webp"
+      ],
+      "createdAt": "2026-09-12T12:56:00+05:00",
+      "updatedAt": "2026-09-12T07:57:38.672Z"
     },
     {
       "id": "sakamoto-days-275",
