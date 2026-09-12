@@ -1,5 +1,59 @@
 {
   "version": 1,
-  "mangas": [],
-  "chapters": []
+  "mangas": [
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "nativeTitle": "ワンピース",
+      "slug": "one-piece",
+      "country": "JP",
+      "language": "Japanese",
+      "status": "Ongoing",
+      "author": "Eiichiro Oda",
+      "artist": "Eiichiro Oda",
+      "publisher": "Shueisha",
+      "magazine": "Weekly Shonen Jump",
+      "description": "One Piece is a Japanese manga series by Eiichiro Oda.",
+      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
+      "cover": ""
+    },
+    {
+      "id": "sakamoto-days",
+      "title": "SAKAMOTO DAYS",
+      "nativeTitle": "サカモトデイズ",
+      "slug": "sakamoto-days",
+      "country": "JP",
+      "language": "Japanese",
+      "status": "Ongoing",
+      "author": "Yuto Suzuki",
+      "artist": "Yuto Suzuki",
+      "publisher": "Shueisha",
+      "magazine": "Weekly Shonen Jump",
+      "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
+      "genres": ["Action", "Comedy", "Shonen"],
+      "cover": ""
+    }
+  ],
+  "chapters": [
+    {
+      "id": "one-piece-1193",
+      "mangaId": "one-piece",
+      "number": 1193,
+      "title": "ワンピース Raw ( One Piece raw ) 第1193話",
+      "slug": "one-piece-raw-1193",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-09-12T12:56:00+05:00"
+    },
+    {
+      "id": "sakamoto-days-275",
+      "mangaId": "sakamoto-days",
+      "number": 275,
+      "title": "SAKAMOTO DAYS – サカモトデイズ raw 第275話",
+      "slug": "sakamoto-days-raw-275",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-09-12T12:56:00+05:00"
+    }
+  ]
 }
