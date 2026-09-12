@@ -9,7 +9,6 @@ permissions:
 
 jobs:
   extract:
-    if: ${{ hashFiles('MangaAtlas-clean-template-final.zip') != '' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,6 +20,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          if [ ! -f "MangaAtlas-clean-template-final.zip" ]; then
+            echo "ZIP already extracted; nothing to do."
+            exit 0
+          fi
           mkdir -p /tmp/mangaatlas-extract
           unzip -q "MangaAtlas-clean-template-final.zip" -d /tmp/mangaatlas-extract
           shopt -s dotglob nullglob
@@ -39,12 +42,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
+          if [ ! -f "MangaAtlas-clean-template-final.zip" ] && git status --porcelain | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Extract MangaAtlas clean template"
+            git push
+          else
+            echo "No extraction changes to commit."
           fi
-          git commit -m "Extract MangaAtlas clean template"
-          git push
