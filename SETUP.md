@@ -1,26 +1,45 @@
-# MangaAtlas Clean Template
+# MangaAtlas — GitHub Pages setup
 
-This is a clean, content-free copy of the MangaAtlas GitHub Pages site.
+This repository is the clean new MangaAtlas deployment.
 
-Included:
-- Full static site pages and styling
-- Admin panel and GitHub token-based upload system
-- Empty `data/content.json`
-- Empty `data/chapter-dates.json`
-- Empty `chapter-images/` and `manga-covers/` folders
-- Ads, analytics, SEO files, and scripts
+## 1. GitHub Pages
 
-Removed:
-- All manga records
-- All chapter records
-- All chapter images
-- All manga cover images
-- RAR/archive files
-- Supabase files
-- Existing sitemap URLs
+In GitHub: Settings → Pages → Deploy from a branch → `main` / root.
 
-## Deploy
+The repository already contains `.nojekyll` and uses relative URLs, so the same code works for a user site or a project site.
 
-Upload the contents of this ZIP to the new GitHub Pages repository. For a user site, use `<username>.github.io`; for a project site, the admin detects the first project path segment automatically.
+## 2. Admin access
 
-Open `/admin/`, enter a GitHub Personal Access Token with permission to write to the new repository, and connect. The admin will use the current GitHub Pages repository instead of the original MangaAtlas repository.
+Open `/admin/` on the deployed site. Enter a GitHub Personal Access Token with repository Contents read/write permission.
+
+The admin detects `owner/repository` from the current GitHub Pages hostname. You can also edit those fields manually before connecting.
+
+Do not put the token in source code, JSON, or Git history. The browser stores it only in `sessionStorage` and the Forget token button clears it.
+
+## 3. Content model
+
+`data/content.json` starts empty:
+
+```json
+{
+  "version": 1,
+  "mangas": [],
+  "chapters": []
+}
+```
+
+Admin creates manga records, uploads covers to `manga-covers/<slug>/cover.webp`, creates chapters, and uploads chapter pages to `chapter-images/<manga-id>/chapter-<number>/`.
+
+## 4. URLs
+
+Manga: `manga.html?slug=<manga-slug>`
+
+Chapter: `chapter.html?slug=<chapter-slug>`
+
+The GitHub Pages 404 fallback also supports `/manga/<slug>` and `/chapter/<slug>` on a user-site deployment.
+
+## 5. SEO
+
+The homepage and content pages include canonical metadata, Open Graph basics, robots rules, sitemap support and the supplied Google Search Console verification meta tag.
+
+The admin regenerates `sitemap.xml` whenever manga/chapter content changes.
