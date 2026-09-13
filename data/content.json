@@ -58,10 +58,17 @@
       "slug": "one-piece-raw-1193",
       "country": "JP",
       "pages": [
-        "chapter-images/one-piece/chapter-1193/page-001.webp"
+        "chapter-images/one-piece/chapter-1193/page-001.webp",
+        "chapter-images/one-piece/chapter-1193/page-011.webp",
+        "chapter-images/one-piece/chapter-1193/page-012.webp",
+        "chapter-images/one-piece/chapter-1193/page-013.webp",
+        "chapter-images/one-piece/chapter-1193/page-014.webp",
+        "chapter-images/one-piece/chapter-1193/page-015.webp",
+        "chapter-images/one-piece/chapter-1193/page-016.webp",
+        "chapter-images/one-piece/chapter-1193/page-017.webp"
       ],
       "createdAt": "2026-09-12T12:56:00+05:00",
-      "updatedAt": "2026-09-13T17:07:44.316Z"
+      "updatedAt": "2026-09-13T17:08:39.429Z"
     },
     {
       "id": "sakamoto-days-275",
