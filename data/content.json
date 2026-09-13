@@ -57,9 +57,19 @@
       "title": "ワンピース Raw ( One Piece raw ) 第1193話",
       "slug": "one-piece-raw-1193",
       "country": "JP",
-      "pages": [],
+      "pages": [
+        "chapter-images/one-piece/chapter-1193/page-001.webp",
+        "chapter-images/one-piece/chapter-1193/page-002.webp",
+        "chapter-images/one-piece/chapter-1193/page-003.webp",
+        "chapter-images/one-piece/chapter-1193/page-004.webp",
+        "chapter-images/one-piece/chapter-1193/page-005.webp",
+        "chapter-images/one-piece/chapter-1193/page-006.webp",
+        "chapter-images/one-piece/chapter-1193/page-007.webp",
+        "chapter-images/one-piece/chapter-1193/page-008.webp",
+        "chapter-images/one-piece/chapter-1193/page-009.webp"
+      ],
       "createdAt": "2026-09-12T12:56:00+05:00",
-      "updatedAt": "2026-09-13T17:18:02.616Z"
+      "updatedAt": "2026-09-13T17:22:49.937Z"
     },
     {
       "id": "sakamoto-days-275",
