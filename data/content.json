@@ -14,7 +14,12 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "One Piece is a Japanese manga series by Eiichiro Oda.",
-      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shonen"
+      ],
       "cover": "manga-covers/one-piece/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -33,7 +38,11 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
-      "genres": ["Action", "Comedy", "Shonen"],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shonen"
+      ],
       "cover": "manga-covers/sakamoto-days/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -67,7 +76,7 @@
         "chapter-images/one-piece/chapter-1193/page-017.webp"
       ],
       "createdAt": "2026-09-12T12:56:00+05:00",
-      "updatedAt": "2026-09-12T08:29:51.534Z"
+      "updatedAt": "2026-09-13T16:54:35.817Z"
     },
     {
       "id": "sakamoto-days-275",
