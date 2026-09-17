@@ -1,12 +1,122 @@
 {
   "version": 2,
   "mangas": [
-    {"id":"one-piece","title":"One Piece","nativeTitle":"ワンピース","slug":"one-piece","country":"JP","language":"Japanese","status":"Ongoing","author":"Eiichiro Oda","artist":"Eiichiro Oda","publisher":"Shueisha","magazine":"Weekly Shonen Jump","description":"One Piece (ワンピース) is a Japanese manga series by Eiichiro Oda. Browse the latest Japanese Raw chapters and chapter updates on MangaAtlasRaw.","genres":["Action","Adventure","Fantasy","Shonen"],"cover":"manga-covers/one-piece/cover.webp","native_title":"","release_date":"","official_url":""},
-    {"id":"sakamoto-days","title":"SAKAMOTO DAYS","nativeTitle":"サカモトデイズ","slug":"sakamoto-days","country":"JP","language":"Japanese","status":"Ongoing","author":"Yuto Suzuki","artist":"Yuto Suzuki","publisher":"Shueisha","magazine":"Weekly Shonen Jump","description":"SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.","genres":["Action","Comedy","Shonen"],"cover":"manga-covers/sakamoto-days/cover.webp","native_title":"","release_date":"","official_url":""}
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "nativeTitle": "ワンピース",
+      "slug": "one-piece",
+      "country": "JP",
+      "language": "Japanese",
+      "status": "Ongoing",
+      "author": "Eiichiro Oda",
+      "artist": "Eiichiro Oda",
+      "publisher": "Shueisha",
+      "magazine": "Weekly Shonen Jump",
+      "description": "One Piece (ワンピース) is a Japanese manga series by Eiichiro Oda. Browse the latest Japanese Raw chapters and chapter updates on MangaAtlasRaw.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shonen"
+      ],
+      "cover": "manga-covers/one-piece/cover.webp",
+      "native_title": "",
+      "release_date": "",
+      "official_url": ""
+    },
+    {
+      "id": "sakamoto-days",
+      "title": "SAKAMOTO DAYS",
+      "nativeTitle": "サカモトデイズ",
+      "slug": "sakamoto-days",
+      "country": "JP",
+      "language": "Japanese",
+      "status": "Ongoing",
+      "author": "Yuto Suzuki",
+      "artist": "Yuto Suzuki",
+      "publisher": "Shueisha",
+      "magazine": "Weekly Shonen Jump",
+      "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shonen"
+      ],
+      "cover": "manga-covers/sakamoto-days/cover.webp",
+      "native_title": "",
+      "release_date": "",
+      "official_url": ""
+    }
   ],
   "chapters": [
-    {"id":"one-piece-1193","mangaId":"one-piece","number":1193,"title":"ワンピース Raw ( One Piece raw ) 第1193話","slug":"one-piece-raw-1193","country":"JP","pages":["chapter-images/one-piece/chapter-1193/page-001.webp","chapter-images/one-piece/chapter-1193/page-002.webp","chapter-images/one-piece/chapter-1193/page-003.webp","chapter-images/one-piece/chapter-1193/page-004.webp","chapter-images/one-piece/chapter-1193/page-005.webp","chapter-images/one-piece/chapter-1193/page-006.webp","chapter-images/one-piece/chapter-1193/page-007.webp","chapter-images/one-piece/chapter-1193/page-008.webp","chapter-images/one-piece/chapter-1193/page-009.webp","chapter-images/one-piece/chapter-1193/page-011.webp","chapter-images/one-piece/chapter-1193/page-012.webp","chapter-images/one-piece/chapter-1193/page-013.webp","chapter-images/one-piece/chapter-1193/page-014.webp","chapter-images/one-piece/chapter-1193/page-015.webp","chapter-images/one-piece/chapter-1193/page-016.webp","chapter-images/one-piece/chapter-1193/page-017.webp","chapter-images/one-piece/chapter-1193/page-018.webp"],"createdAt":"2026-09-12T12:56:00+05:00","updatedAt":"2026-09-13T17:24:55.402Z"},
-    {"id":"one-piece-1194","mangaId":"one-piece","number":1194,"title":"ワンピース Raw ( One Piece raw ) 第1194話","slug":"one-piece-raw-1194","country":"JP","pages":[],"seoTitle":"ワンピース Raw ( One Piece raw ) 第1194話 | MangaAtlasRaw","seoDescription":"ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェック。日本語のOne Piece最新話、章情報、ページ更新を見やすく確認できます。","keywords":["ワンピース Raw","One Piece raw","ワンピース 第1194話","One Piece Chapter 1194","ワンピース 1194","One Piece 1194","ワンピース 最新話","One Piece latest chapter","漫画 Raw"],"intro":"ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェックできます。One Pieceの最新章として、日本語の章タイトルと更新情報を整理しています。","bottomContent":"ワンピース Raw ( One Piece raw ) 第1194話を探している読者向けに、One Piece、ワンピース、第1194話、One Piece Chapter 1194、ワンピース最新話、One Piece rawなどの関連キーワードを自然に整理しています。","country":"JP","createdAt":"2026-09-17T16:11:00+05:00","updatedAt":"2026-09-17T16:11:00+05:00"},
-    {"id":"sakamoto-days-275","mangaId":"sakamoto-days","number":275,"title":"サカモトデイズ raw ( SAKAMOTO DAYS raw ) 第275話","slug":"sakamoto-days-raw-275","country":"JP","pages":[],"createdAt":"2026-09-12T12:56:00+05:00","updatedAt":"2026-09-12T08:28:43.487Z"}
+    {
+      "id": "one-piece-1193",
+      "mangaId": "one-piece",
+      "number": 1193,
+      "title": "ワンピース Raw ( One Piece raw ) 第1193話",
+      "slug": "one-piece-raw-1193",
+      "country": "JP",
+      "pages": [
+        "chapter-images/one-piece/chapter-1193/page-001.webp",
+        "chapter-images/one-piece/chapter-1193/page-002.webp",
+        "chapter-images/one-piece/chapter-1193/page-003.webp",
+        "chapter-images/one-piece/chapter-1193/page-004.webp",
+        "chapter-images/one-piece/chapter-1193/page-005.webp",
+        "chapter-images/one-piece/chapter-1193/page-006.webp",
+        "chapter-images/one-piece/chapter-1193/page-007.webp",
+        "chapter-images/one-piece/chapter-1193/page-008.webp",
+        "chapter-images/one-piece/chapter-1193/page-009.webp",
+        "chapter-images/one-piece/chapter-1193/page-011.webp",
+        "chapter-images/one-piece/chapter-1193/page-012.webp",
+        "chapter-images/one-piece/chapter-1193/page-013.webp",
+        "chapter-images/one-piece/chapter-1193/page-014.webp",
+        "chapter-images/one-piece/chapter-1193/page-015.webp",
+        "chapter-images/one-piece/chapter-1193/page-016.webp",
+        "chapter-images/one-piece/chapter-1193/page-017.webp",
+        "chapter-images/one-piece/chapter-1193/page-018.webp"
+      ],
+      "createdAt": "2026-09-12T12:56:00+05:00",
+      "updatedAt": "2026-09-13T17:24:55.402Z"
+    },
+    {
+      "id": "one-piece-1194",
+      "mangaId": "one-piece",
+      "number": 1194,
+      "title": "ワンピース Raw ( One Piece raw ) 第1194話",
+      "slug": "one-piece-raw-1194",
+      "country": "JP",
+      "pages": [
+        "chapter-images/one-piece/chapter-1194/page-001.webp"
+      ],
+      "seoTitle": "ワンピース Raw ( One Piece raw ) 第1194話 | MangaAtlasRaw",
+      "seoDescription": "ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェック。日本語のOne Piece最新話、章情報、ページ更新を見やすく確認できます。",
+      "keywords": [
+        "ワンピース Raw",
+        "One Piece raw",
+        "ワンピース 第1194話",
+        "One Piece Chapter 1194",
+        "ワンピース 1194",
+        "One Piece 1194",
+        "ワンピース 最新話",
+        "One Piece latest chapter",
+        "漫画 Raw"
+      ],
+      "intro": "ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェックできます。One Pieceの最新章として、日本語の章タイトルと更新情報を整理しています。",
+      "bottomContent": "ワンピース Raw ( One Piece raw ) 第1194話を探している読者向けに、One Piece、ワンピース、第1194話、One Piece Chapter 1194、ワンピース最新話、One Piece rawなどの関連キーワードを自然に整理しています。",
+      "createdAt": "2026-09-17T16:11:00+05:00",
+      "updatedAt": "2026-09-17T16:16:36.286Z"
+    },
+    {
+      "id": "sakamoto-days-275",
+      "mangaId": "sakamoto-days",
+      "number": 275,
+      "title": "サカモトデイズ raw ( SAKAMOTO DAYS raw ) 第275話",
+      "slug": "sakamoto-days-raw-275",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-09-12T12:56:00+05:00",
+      "updatedAt": "2026-09-12T08:28:43.487Z"
+    }
   ]
 }
