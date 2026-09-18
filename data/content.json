@@ -14,7 +14,12 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "One Piece (ワンピース) is a Japanese manga series by Eiichiro Oda. Browse the latest Japanese Raw chapters and chapter updates on MangaAtlasRaw.",
-      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shonen"
+      ],
       "cover": "manga-covers/one-piece/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -33,7 +38,11 @@
       "publisher": "Shueisha",
       "magazine": "Weekly Shonen Jump",
       "description": "SAKAMOTO DAYS is a Japanese manga series by Yuto Suzuki.",
-      "genres": ["Action", "Comedy", "Shonen"],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shonen"
+      ],
       "cover": "manga-covers/sakamoto-days/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -52,7 +61,12 @@
       "publisher": "Kodansha",
       "magazine": "Weekly Shonen Magazine",
       "description": "黙示録の四騎士 (THE FOUR KNIGHTS OF THE APOCALYPSE) is a Japanese manga series by Nakaba Suzuki. Browse Japanese Raw chapter updates on MangaAtlasRaw.",
-      "genres": ["Action", "Adventure", "Fantasy", "Shonen"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shonen"
+      ],
       "cover": "manga-covers/the-four-knights-of-the-apocalypse/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -71,7 +85,12 @@
       "publisher": "Kodansha",
       "magazine": "Weekly Shonen Magazine",
       "description": "ブルーロック (Blue Lock) is a Japanese football manga series by Muneyuki Kaneshiro and Yusuke Nomura. Browse Japanese Raw chapter updates on MangaAtlasRaw.",
-      "genres": ["Sports", "Football", "Action", "Shonen"],
+      "genres": [
+        "Sports",
+        "Football",
+        "Action",
+        "Shonen"
+      ],
       "cover": "manga-covers/blue-lock/cover.webp",
       "native_title": "",
       "release_date": "",
@@ -86,7 +105,25 @@
       "title": "ワンピース Raw ( One Piece raw ) 第1193話",
       "slug": "one-piece-raw-1193",
       "country": "JP",
-      "pages": ["chapter-images/one-piece/chapter-1193/page-001.webp", "chapter-images/one-piece/chapter-1193/page-002.webp", "chapter-images/one-piece/chapter-1193/page-003.webp", "chapter-images/one-piece/chapter-1193/page-004.webp", "chapter-images/one-piece/chapter-1193/page-005.webp", "chapter-images/one-piece/chapter-1193/page-006.webp", "chapter-images/one-piece/chapter-1193/page-007.webp", "chapter-images/one-piece/chapter-1193/page-008.webp", "chapter-images/one-piece/chapter-1193/page-009.webp", "chapter-images/one-piece/chapter-1193/page-011.webp", "chapter-images/one-piece/chapter-1193/page-012.webp", "chapter-images/one-piece/chapter-1193/page-013.webp", "chapter-images/one-piece/chapter-1193/page-014.webp", "chapter-images/one-piece/chapter-1193/page-015.webp", "chapter-images/one-piece/chapter-1193/page-016.webp", "chapter-images/one-piece/chapter-1193/page-017.webp", "chapter-images/one-piece/chapter-1193/page-018.webp"],
+      "pages": [
+        "chapter-images/one-piece/chapter-1193/page-001.webp",
+        "chapter-images/one-piece/chapter-1193/page-002.webp",
+        "chapter-images/one-piece/chapter-1193/page-003.webp",
+        "chapter-images/one-piece/chapter-1193/page-004.webp",
+        "chapter-images/one-piece/chapter-1193/page-005.webp",
+        "chapter-images/one-piece/chapter-1193/page-006.webp",
+        "chapter-images/one-piece/chapter-1193/page-007.webp",
+        "chapter-images/one-piece/chapter-1193/page-008.webp",
+        "chapter-images/one-piece/chapter-1193/page-009.webp",
+        "chapter-images/one-piece/chapter-1193/page-011.webp",
+        "chapter-images/one-piece/chapter-1193/page-012.webp",
+        "chapter-images/one-piece/chapter-1193/page-013.webp",
+        "chapter-images/one-piece/chapter-1193/page-014.webp",
+        "chapter-images/one-piece/chapter-1193/page-015.webp",
+        "chapter-images/one-piece/chapter-1193/page-016.webp",
+        "chapter-images/one-piece/chapter-1193/page-017.webp",
+        "chapter-images/one-piece/chapter-1193/page-018.webp"
+      ],
       "createdAt": "2026-09-12T12:56:00+05:00",
       "updatedAt": "2026-09-13T17:24:55.402Z"
     },
@@ -97,10 +134,22 @@
       "title": "ワンピース Raw ( One Piece raw ) 第1194話",
       "slug": "one-piece-raw-1194",
       "country": "JP",
-      "pages": ["chapter-images/one-piece/chapter-1194/page-001.webp"],
+      "pages": [
+        "chapter-images/one-piece/chapter-1194/page-001.webp"
+      ],
       "seoTitle": "ワンピース Raw ( One Piece raw ) 第1194話 | MangaAtlasRaw",
       "seoDescription": "ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェック。日本語のOne Piece最新話、章情報、ページ更新を見やすく確認できます。",
-      "keywords": ["ワンピース Raw", "One Piece raw", "ワンピース 第1194話", "One Piece Chapter 1194", "ワンピース 1194", "One Piece 1194", "ワンピース 最新話", "One Piece latest chapter", "漫画 Raw"],
+      "keywords": [
+        "ワンピース Raw",
+        "One Piece raw",
+        "ワンピース 第1194話",
+        "One Piece Chapter 1194",
+        "ワンピース 1194",
+        "One Piece 1194",
+        "ワンピース 最新話",
+        "One Piece latest chapter",
+        "漫画 Raw"
+      ],
       "intro": "ワンピース Raw ( One Piece raw ) 第1194話をMangaAtlasRawでチェックできます。One Pieceの最新章として、日本語の章タイトルと更新情報を整理しています。",
       "bottomContent": "ワンピース Raw ( One Piece raw ) 第1194話を探している読者向けに、One Piece、ワンピース、第1194話、One Piece Chapter 1194、ワンピース最新話、One Piece rawなどの関連キーワードを自然に整理しています。",
       "createdAt": "2026-09-17T16:11:00+05:00",
@@ -127,7 +176,14 @@
       "pages": [],
       "seoTitle": "黙示録の四騎士 Raw ( THE FOUR KNIGHTS OF THE APOCALYPSE raw ) 第254話 | MangaAtlasRaw",
       "seoDescription": "黙示録の四騎士 Raw ( THE FOUR KNIGHTS OF THE APOCALYPSE raw ) 第254話をMangaAtlasRawでチェック。日本語の最新章情報とページ更新を見やすく確認できます。",
-      "keywords": ["黙示録の四騎士 Raw", "THE FOUR KNIGHTS OF THE APOCALYPSE raw", "黙示録の四騎士 第254話", "Four Knights of the Apocalypse Chapter 254", "Four Knights Chapter 254", "黙示録の四騎士 最新話"],
+      "keywords": [
+        "黙示録の四騎士 Raw",
+        "THE FOUR KNIGHTS OF THE APOCALYPSE raw",
+        "黙示録の四騎士 第254話",
+        "Four Knights of the Apocalypse Chapter 254",
+        "Four Knights Chapter 254",
+        "黙示録の四騎士 最新話"
+      ],
       "intro": "黙示録の四騎士 Raw ( THE FOUR KNIGHTS OF THE APOCALYPSE raw ) 第254話をMangaAtlasRawでチェックできます。日本語の章タイトルと最新話の更新情報を整理しています。",
       "bottomContent": "黙示録の四騎士 Raw ( THE FOUR KNIGHTS OF THE APOCALYPSE raw ) 第254話に関連する検索キーワードとして、黙示録の四騎士、THE FOUR KNIGHTS OF THE APOCALYPSE、第254話、Four Knights of the Apocalypse Chapter 254などを自然に整理しています。",
       "createdAt": "2026-09-18T13:18:00+05:00",
@@ -140,14 +196,23 @@
       "title": "ブルーロック raw ( Blue Lock raw ) 第362話",
       "slug": "blue-lock-raw-362",
       "country": "JP",
-      "pages": [],
+      "pages": [
+        "chapter-images/blue-lock/chapter-362/page-001.webp"
+      ],
       "seoTitle": "ブルーロック raw ( Blue Lock raw ) 第362話 | MangaAtlasRaw",
       "seoDescription": "ブルーロック raw ( Blue Lock raw ) 第362話をMangaAtlasRawでチェック。日本語の最新章情報とページ更新を見やすく確認できます。",
-      "keywords": ["ブルーロック raw", "Blue Lock raw", "ブルーロック 第362話", "Blue Lock Chapter 362", "Blue Lock 362", "ブルーロック 最新話"],
+      "keywords": [
+        "ブルーロック raw",
+        "Blue Lock raw",
+        "ブルーロック 第362話",
+        "Blue Lock Chapter 362",
+        "Blue Lock 362",
+        "ブルーロック 最新話"
+      ],
       "intro": "ブルーロック raw ( Blue Lock raw ) 第362話をMangaAtlasRawでチェックできます。Blue Lockの日本語最新章として、章タイトルと更新情報を整理しています。",
       "bottomContent": "ブルーロック raw ( Blue Lock raw ) 第362話に関連する検索キーワードとして、ブルーロック、Blue Lock、第362話、Blue Lock Chapter 362、ブルーロック最新話などを自然に整理しています。",
       "createdAt": "2026-09-18T13:18:00+05:00",
-      "updatedAt": "2026-09-18T13:18:00+05:00"
+      "updatedAt": "2026-09-18T08:20:10.882Z"
     }
   ]
 }
