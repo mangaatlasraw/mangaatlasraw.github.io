@@ -822,6 +822,17 @@
       ],
       "createdAt": "2026-09-27T03:02:05.836Z",
       "updatedAt": "2026-09-27T03:02:57.362Z"
+    },
+    {
+      "id": "four-kinghts-255",
+      "mangaId": "the-four-knights-of-the-apocalypse",
+      "number": 255,
+      "title": "黙示録の四騎士 Raw ( THE FOUR KNIGHTS OF THE APOCALYPSE raw ) 第255話",
+      "slug": "four-kinghts-255",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-09-28T08:20:06.059Z",
+      "updatedAt": "2026-09-28T08:20:06.059Z"
     }
   ]
 }
